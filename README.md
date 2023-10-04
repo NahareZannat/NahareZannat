@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Most Nahare Zannat</h1>
 <h3 align="center">A passionate to work with industrial desingning</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fengineer&psig=AOvVaw36DbtnNQw6L2eFkC490nbf&ust=1696488605206000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCyiZHn24EDFQAAAAAdAAAAABBN">
+<img align="right" alt="coding" width="400" src=""C:\Users\User\Desktop\Nahare Zannat.jpg"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naharezannat&label=Profile%20views&color=0e75b6&style=flat" alt="naharezannat" /> </p>
 
