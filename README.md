@@ -1,3 +1,6 @@
+![github-banner]()
+
+
 # Hello, I'm Most Nahare Zannat👋
 
 I'm a passionate master's student majoring in **Industrial Design and Engineering** at Zhejiang University. My academic journey is driven by a deep fascination with the intersection of design, engineering, and innovation. I'm dedicated to creating meaningful and sustainable solutions through the power of design thinking and engineering principles.
