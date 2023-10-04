@@ -14,6 +14,7 @@ I'm a passionate master's student majoring in **Industrial Design and Engineerin
 - 📚 Relevant Coursework: [List some key courses you've taken]
 
 ## 💼 Experience
+<img align="right" alt="coding" width="400" src=".gif">
 
 - **[Internship/Job Title] ** at **[Company/Institution]** _(Start Date - End Date)_
   - [Brief description of your role and accomplishments]
