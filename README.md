@@ -1,7 +1,10 @@
-![github-banner]()
+![223913733-deb1d974-787d-43c4-b60d-eff538aa161e](https://github.com/NahareZannat/NahareZannat/assets/146066311/e7ba78b2-9e72-4b2f-aa79-d78a4bc33e57)
+
+
 
 
 # Hello, I'm Most Nahare Zannat👋
+<img align="left" alt="Profile_photo" width="400" src="">
 
 I'm a passionate master's student majoring in **Industrial Design and Engineering** at Zhejiang University. My academic journey is driven by a deep fascination with the intersection of design, engineering, and innovation. I'm dedicated to creating meaningful and sustainable solutions through the power of design thinking and engineering principles.
 
