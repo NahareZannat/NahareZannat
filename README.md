@@ -47,8 +47,7 @@ Beyond my academic pursuits, I'm passionate about Volunteer Work and Organizatio
 I'm always open to connecting and collaborating:
 
 - 📧 Email: mzannat14@yahoo.com
-- ![WeChat Logo](wechat-logo.png)
--    WeChat: shaplaahmed27
+- <img align="left" alt="Logo" width="18" src="https://github.com/NahareZannat/NahareZannat/assets/146066311/0a779432-4459-4e74-a730-02f04a00c62c.png">WeChat: **shaplaahmed27**
 
 Let's connect, exchange ideas, and explore the exciting world of Industrial Design and Engineering together! 😊
 
